@@ -1,9 +1,21 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+东莞初中生一枚～
 
-::github{repo="saicaca/fuwari"}
+不久前建好了这个站，打算从现在起记录生活、学习笔记、技术知识以及更多！
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+那么，就多多指教啦～
+
+（大站）Toriの世界
+
+
+=)
+
+Tori
+
+2025/8/19
+
+于家中
+
+[Toriの世界](https://2z2.org)
+
+::github{repo="Tom6814/fuwari0"}
