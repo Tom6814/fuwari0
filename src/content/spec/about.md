@@ -5,8 +5,7 @@
 
 那么，就多多指教啦～
 
-（大站）Toriの世界
-
+（大站）[Toriの世界](https://2z2.org)
 
 =)
 
@@ -14,8 +13,6 @@ Tori
 
 2025/8/19
 
-于家中
-
-[Toriの世界](https://2z2.org)
+家中
 
 ::github{repo="Tom6814/fuwari0"}
